@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @F0zzi4
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning informatics at University of Verona
+- 📫 Email : fozzatodavide@gmail.com
